@@ -1,5 +1,5 @@
 # ChatGPT
-I'm using this repository to document my research, and turn this into a valuable resource for **ChatGPT Prompt Enigineering**.
+I'm using this repository to document my research, and turn this into a valuable resource for **ChatGPT Prompt Engineering**.
 
 # Interesting articles
 * [ChatGPT: Introduction](https://techunlockers.com/chatgpt-introduction)
